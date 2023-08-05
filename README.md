@@ -6,11 +6,11 @@ Alongside our installation services, we proudly offer an array of high-quality s
 ensuring that our clients have access to the best products on the market.
 
 ## OUR SERVICES 
-> Solar System Installation
+> ** Solar System Installation **
 
-> Solar Consultation
+>  ** Solar Consultation  **
 
-> Solar Resource Marketing
+> ** Solar Resource Marketing **
 
   - Solar Panels
 
@@ -24,7 +24,8 @@ ensuring that our clients have access to the best products on the market.
 
   - Circuit Breakers
 
-> Maintenance and Support
+> ** Maintenance and Support **
+
 
 
 
