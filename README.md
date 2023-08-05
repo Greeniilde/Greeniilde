@@ -6,11 +6,11 @@ Alongside our installation services, we proudly offer an array of high-quality s
 ensuring that our clients have access to the best products on the market.
 
 ## OUR SERVICES 
-> ** Solar System Installation **
+>  __Solar System Installation__
 
->  ** Solar Consultation  **
+>  __Solar Consultation__
 
-> ** Solar Resource Marketing **
+> __Solar Resource Marketing__
 
   - Solar Panels
 
