@@ -1,4 +1,4 @@
-# <center>GREENIILDE</center>
+# <p align="center">GREENIILDE</p>
 
 A leading renewable energy company with a dedicated focus on providing top-notch solar energy services. 
 Our expertise lies in the seamless installation of solar systems, catering to both private and commercial applications. 
