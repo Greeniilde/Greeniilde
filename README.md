@@ -12,7 +12,20 @@ ensuring that our clients have access to the best products on the market.
 
 > Solar Resource Marketing
 
+  - Solar Panels
+
+  - Inverters
+
+  - Charge Controlles
+
+  - Solar Street Lights
+
+  - DC Cables
+
+  - Circuit Breakers
+
 > Maintenance and Support
+
 
 
 <!---
